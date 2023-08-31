@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mithilesh Marekarr</h1>
+<h1 align="center">Hi 👋, I'm Mithilesh Marekar</h1>
 <h3 align="center">A passionate FullStack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mithilesh-marekar&label=Profile%20views&color=0e75b6&style=flat" alt="mithilesh-marekar" /> </p>
